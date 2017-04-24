@@ -22,7 +22,7 @@
 
 ## Documents
 
-  - [Alexa Voice Service Overview] (https://github.com/plangdon/Alexa-Training/raw/master/Alexa%20Presentation.pdf)
+  - [Alexa Voice Service Overview] (https://github.com/plangdon/Alexa-Training/raw/master/docs/Alexa%20Presentation.pdf)
 
 
 ### Additional Resources
