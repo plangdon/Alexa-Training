@@ -16,13 +16,14 @@
 
 ### Lab 3
 
+--------------
 
 ## Documents
 
   - [Alexa Voice Service Overview] (https://github.com/plangdon/Alexa-Training/raw/master/Alexa%20Presentation.pdf)
 
 
-###Additional Resources
+### Additional Resources
 
 *New Alexa Repo* - including persistence and simplified examples
 --------------
