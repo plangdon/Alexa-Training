@@ -10,11 +10,13 @@
 
 ## Labs
 
-### Lab 1 -
+### Lab 1 - Facts
 
-### Lab 2 -
+### Lab 2 - Flash Cards
 
-### Lab 3
+### Lab 3 - External Linking (Web Service Call)
+
+### Lab 4 - Data Persistence (Dynamo DB)
 
 --------------
 
