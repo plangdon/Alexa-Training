@@ -1,0 +1,12 @@
+GetAirQuality what is the air quality in {City} {State}
+GetAirQuality what is the air quality in {Zip}
+GetAirQuality {City} {State}
+GetAirQuality {Zip}
+GetAirQuality for {City} {State}
+GetAirQuality for {Zip}
+
+
+AMAZON.HelpIntent help
+AMAZON.HelpIntent help me
+AMAZON.StopIntent stop
+AMAZON.CancelIntent cancel

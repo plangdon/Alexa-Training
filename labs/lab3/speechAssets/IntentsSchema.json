@@ -1,0 +1,30 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "City",
+          "type": "AMAZON.US_CITY"
+        },
+        {
+          "name": "State",
+          "type": "AMAZON.US_STATE"
+        },
+        {
+          "name": "Zip",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "GetAirQuality"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
-#Inline 'One Shot' Example Fact Skill#
+#External Service Call - Air Quality Report#
 
-User asks Alexa skill to "tell me a fact", Alexa responds with a random fact from the list.
+User asks Alexa skill to get Air Quality report for a city by name or zip, Alexa responds with results from web service call.
 
  - index.js: main code file
 
@@ -13,7 +13,7 @@ User asks Alexa skill to "tell me a fact", Alexa responds with a random fact fro
 
 ##Publishing Information:##
 Example Phrases
- - Alexa, open "Your Skill Name", tell me something
- - Give me a fact
- - Tell me a fact
+ - Alexa, start "Your skill name"
+ - Alexa ask air quality report what is the air quality in zero six one zero nine
+ - Alexa ask air quality report  for Hartford, Connecticut
 

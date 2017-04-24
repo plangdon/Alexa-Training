@@ -1,8 +1,10 @@
-#Inline 'One Shot' Example Fact Skill#
+# Zipped 'One Shot' Example Fact Skill#
 
 User asks Alexa skill to "tell me a fact", Alexa responds with a random fact from the list.
 
- - index.js: main code file
+ -- to_be_zipped
+  - index.js: main code file
+  - AlexaSkills.js: helper file
 
  -- SpeechAssets
     - Intents.json: Interaction model for this skill (copy and past into Interaction Model:Intent Schema)
@@ -11,7 +13,10 @@ User asks Alexa skill to "tell me a fact", Alexa responds with a random fact fro
     - ico512.png: 512px example for icon (for Publishing Information:Images)
 
 
-##Publishing Information:##
+## The contents of "to_be_zipped" must be zipped and uploaded to the Lambda function
+
+
+## Publishing Information:
 Example Phrases
  - Alexa, open "Your Skill Name", tell me something
  - Give me a fact

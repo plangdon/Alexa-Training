@@ -10,9 +10,9 @@
 
 ## Labs
 
-### Lab 1 - Facts
+### Lab 1 - Simple Fact Skill 
 
-### Lab 2 - Flash Cards
+### Lab 2 - Interactive Flash Cards
 
 ### Lab 3 - External Linking (Web Service Call)
 
