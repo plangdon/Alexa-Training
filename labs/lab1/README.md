@@ -1,4 +1,4 @@
-#Inline 'One Shot' Example Fact Skill#
+#Inline 'One Shot' Example Fact Skill#<a id="title">
 
 User asks Alexa skill to "tell me a fact", Alexa responds with a random fact from the list.
 

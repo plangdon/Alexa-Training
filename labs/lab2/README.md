@@ -1,4 +1,4 @@
-#Inline Quiz Skill#
+#Inline Quiz Skill#<a id="title">
 
 User asks Alexa skill to start a quiz, Alexa responds with question, user provides the correct answer.
 

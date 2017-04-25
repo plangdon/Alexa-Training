@@ -1,4 +1,4 @@
-#External Service Call - Air Quality Report#
+#External Service Call - Air Quality Report#<a id="title">
 
 User asks Alexa skill to get Air Quality report for a city by name or zip, Alexa responds with results from web service call.
 

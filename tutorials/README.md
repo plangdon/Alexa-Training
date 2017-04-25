@@ -1,20 +1,10 @@
-#Access DB Skill#
+#### Skill Creation in 3 Easy Steps
 
-User asks Alexa skill to remember something, user asks Alexa to recall.
+## 1. [Create the Skill](./PAGE1.md#title)
+## 2. [Create the Lambda Function](./PAGE2.md#title)
+## 3. [Connect your skill to Lambda](./PAGE3.md#title)
 
- - index.js: main code file
+## 4. [Test It!](./PAGE4.md#title) 
 
- -- SpeechAssets
-    - Intents.json: Interaction model for this skill (copy and past into Interaction Model:Intent Schema)
-    - Utterances.txt: Voice interactions for this skill (copy and past into Interaction Model:Sample Utterances)
-    - slotValues.txt: Sample answer text (copy and past into Interaction Model:Custom Slot Types)
-    - ico108.png: 108px example for icon (for Publishing Information:Images)
-    - ico512.png: 512px example for icon (for Publishing Information:Images)
-
-
-##Publishing Information:##
-Example Phrases
- - Alexa, start "Your Quiz Name"
- - Is is answer one
- - Is it answer two
-
+<hr />
+Back to the [Home Page](../../README.md#title)

@@ -5,7 +5,7 @@
 
 1. Login to [developer.amazon.com](https://developer.amazon.com) and click Alexa, then Alexa Skills Kit.
 1. Create a new Skill called **fact skill** with invocation name ```fact skill```.
-1. Paste in the [Intents.json](./labs/SpeechAssets/Intents.json) :
+1. Paste in the [Intents.json](./labs/lab1/SpeechAssets/Intents.json) :
 
 
 ```
@@ -28,7 +28,7 @@
 
 ```
 
-1. Paste in the [Utterances.txt](./labs/speechAssets/Utterances.txt) :
+1. Paste in the [Utterances.txt](./labs/lab1/speechAssets/Utterances.txt) :
 
 ```
 GetNewFactIntent a fact

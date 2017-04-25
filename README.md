@@ -10,18 +10,18 @@
 
 ## Labs
 
-### Lab 1 - Simple Fact Skill (./labs/lab1/README.md#title)
+### Lab 1 - [Simple Fact Skill](./labs/lab1/README.md#title)
 
-### Lab 2 - Interactive Flash Cards (./labs/lab2/README.md#title)
+### Lab 2 - [Interactive Flash Cards](./labs/lab2/README.md#title)
 
-### Lab 3 - External Linking (Web Service Call) (./labs/lab3/README.md#title)
+### Lab 3 - [External Linking (Web Service Call)](./labs/lab3/README.md#title)
 
-### Lab 4 - Data Persistence (Dynamo DB) (./labs/lab4/README.md#title)
+### Lab 4 - [Data Persistence (Dynamo DB)](./labs/lab4/README.md#title)
 
 <hr />
 ## Tutorials
 
-### How To - Creating a Skill (./tutorials/README.md#title)
+### How To - [Creating a Skill](./tutorials/README.md#title)
 
 
 <hr />
@@ -52,4 +52,4 @@ https://developer.amazon.com/alexa-skills-kit/alexa-skills-developer-training
 
 ## Documents
 
-  - Alexa Voice Service Overview - https://github.com/plangdon/Alexa-Training/raw/master/docs/Alexa%20Presentation.pdf
+  - [Alexa Voice Service Overview](https://github.com/plangdon/Alexa-Training/raw/master/docs/Alexa%20Presentation.pdf)
