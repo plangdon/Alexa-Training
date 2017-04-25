@@ -1,8 +1,10 @@
 #### Skill Creation Steps
-## 3. Connect your skill to Lambda <a id="title"></a>
+## 4. Testing your Skill <a id="title"></a>
 <hr />
 
-Here is how to copy and paste your Lambda function ARN to the Skill endpoint.
+If you don't have a physical Alexa device to test with you can use a testing tool called Echosim.io
+
+
 
 1. Within the AWS Lambda function page, the ARN, or Amazon Resource Name, is shown near the top right, such as
  *  ``` arn:aws:lambda:us-east-1:77777777777:function:FactSkill ```

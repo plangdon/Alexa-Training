@@ -22,3 +22,6 @@ Example Phrases
  * Give me a fact
  * Tell me a fact
 
+
+ <hr />
+ Back to the [Home Page](../../README.md#title)

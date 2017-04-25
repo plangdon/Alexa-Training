@@ -18,3 +18,5 @@ Example Phrases
  * Is is answer one
  * Is it answer two
 
+ <hr />
+ Back to the [Home Page](../../README.md#title)

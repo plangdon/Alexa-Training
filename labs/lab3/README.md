@@ -17,3 +17,5 @@ Example Phrases
  * Alexa ask air quality report what is the air quality in zero six one zero nine
  * Alexa ask air quality report  for Hartford, Connecticut
 
+ <hr />
+ Back to the [Home Page](../../README.md#title)
