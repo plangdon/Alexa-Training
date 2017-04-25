@@ -1,4 +1,4 @@
-# Resources and Labs for Learning Voice UI with Amazon Alexa
+# Resources and Labs for Learning Voice UI with Amazon Alexa <a id="title"></a>
 
 ## Getting Started
 
@@ -10,21 +10,21 @@
 
 ## Labs
 
-### Lab 1 - Simple Fact Skill
+### Lab 1 - Simple Fact Skill (./labs/lab1/README.md#title)
 
-### Lab 2 - Interactive Flash Cards
+### Lab 2 - Interactive Flash Cards (./labs/lab2/README.md#title)
 
-### Lab 3 - External Linking (Web Service Call)
+### Lab 3 - External Linking (Web Service Call) (./labs/lab3/README.md#title)
 
-### Lab 4 - Data Persistence (Dynamo DB)
+### Lab 4 - Data Persistence (Dynamo DB) (./labs/lab4/README.md#title)
 
---------------
+<hr />
 ## Tutorials
 
-### How To - Creating a Skill 
+### How To - Creating a Skill (./tutorials/README.md#title)
 
 
---------------
+<hr />
 
 ## Advanced Topics
 
@@ -36,7 +36,7 @@
 
 ### Account Linking
 
---------------
+<hr />
 
 ## Additional Resources
 
@@ -48,8 +48,8 @@ https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs
 
 https://developer.amazon.com/alexa-skills-kit/alexa-skills-developer-training
 
---------------
+<hr />
 
 ## Documents
 
-  - [Alexa Voice Service Overview] (https://github.com/plangdon/Alexa-Training/raw/master/docs/Alexa%20Presentation.pdf)
+  - Alexa Voice Service Overview - https://github.com/plangdon/Alexa-Training/raw/master/docs/Alexa%20Presentation.pdf
