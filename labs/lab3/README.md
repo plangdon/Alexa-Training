@@ -17,3 +17,11 @@ Example Phrases
  * Alexa ask air quality report what is the air quality in zero six one zero nine
  * Alexa ask air quality report  for Hartford, Connecticut
 
+## Setup Access to API
+https://developers.breezometer.com/signup
+* Create a developer account
+* Get your API key
+
+Explore the API
+https://breezometer.com/air-quality-api/
+
