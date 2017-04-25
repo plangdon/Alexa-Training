@@ -1,20 +1,20 @@
-#Inline Quiz Skill#<a id="title">
+#Inline Quiz Skill <a id="title">
 
 User asks Alexa skill to start a quiz, Alexa responds with question, user provides the correct answer.
 
- - index.js: main code file
+ * index.js: main code file
 
- -- SpeechAssets
-    - Intents.json: Interaction model for this skill (copy and past into Interaction Model:Intent Schema)
-    - Utterances.txt: Voice interactions for this skill (copy and past into Interaction Model:Sample Utterances)
-    - slotValues.txt: Sample answer text (copy and past into Interaction Model:Custom Slot Types)
-    - ico108.png: 108px example for icon (for Publishing Information:Images)
-    - ico512.png: 512px example for icon (for Publishing Information:Images)
+ * SpeechAssets
+    * Intents.json: Interaction model for this skill (copy and past into Interaction Model:Intent Schema)
+    * Utterances.txt: Voice interactions for this skill (copy and past into Interaction Model:Sample Utterances)
+    * slotValues.txt: Sample answer text (copy and past into Interaction Model:Custom Slot Types)
+    * ico108.png: 108px example for icon (for Publishing Information:Images)
+    * ico512.png: 512px example for icon (for Publishing Information:Images)
 
 
-##Publishing Information:##
+##Publishing Information:
 Example Phrases
- - Alexa, start "Your Quiz Name"
- - Is is answer one
- - Is it answer two
+ * Alexa, start "Your Quiz Name"
+ * Is is answer one
+ * Is it answer two
 
