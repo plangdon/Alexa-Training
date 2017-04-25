@@ -47,7 +47,7 @@ https://console.aws.amazon.com/iam/home#/home
 #### Save Access Information
 * On screen you will see: Access key ID
 * and Secret access key with "****** Show" - Click Show
-** Important - <b>Copy and Save the access key</b> - you will not be able to access it later
+    * Important - <b>Copy and Save the access key</b> - you will not be able to access it later
 
 
 
