@@ -2,13 +2,13 @@
 
 User asks Alexa skill to get Air Quality report for a city by name or zip, Alexa responds with results from web service call.
 
- * index.js: main code file
+* <b>index.js:</b> main code file
 
 * SpeechAssets
-    * Intents.json: Interaction model for this skill (copy and past into Interaction Model:Intent Schema)
-    * Utterances.txt: Voice interactions for this skill (copy and past into Interaction Model:Sample Utterances)
-    * ico108.png: 108px example for icon (for Publishing Information:Images)
-    * ico512.png: 512px example for icon (for Publishing Information:Images)
+    * <b>Intents.json:</b> Interaction model for this skill (copy and past into Interaction Model:Intent Schema)
+    * <b>Utterances.txt:</b> Voice interactions for this skill (copy and past into Interaction Model:Sample Utterances)
+    * <b>ico108.png:</b> 108px example for icon (for Publishing Information:Images)
+    * <b>ico512.png:</b> 512px example for icon (for Publishing Information:Images)
 
 
 ##Publishing Information:

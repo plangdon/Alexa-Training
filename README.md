@@ -42,11 +42,11 @@
 
 #### Alexa Skills Kit SDK for Node.js - Event driven model for Alexa development
 
-https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs
+<https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs>{:target="_blank"}
 
 #### Amazon Online Trainings and Webinars
 
-https://developer.amazon.com/alexa-skills-kit/alexa-skills-developer-training
+<https://developer.amazon.com/alexa-skills-kit/alexa-skills-developer-training>{:target="_blank"}
 
 <hr />
 
