@@ -19,10 +19,10 @@
 #### Lab 4 - [Data Persistence (Dynamo DB)](./labs/lab4)
 
 <hr />
+
 ## Tutorials
 
-### [How To creating a skill - step by step](./tutorials)
-
+#### [How To creating a skill - step by step](./tutorials)
 
 <hr />
 
