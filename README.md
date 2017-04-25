@@ -46,7 +46,7 @@
 
 #### Amazon Online Trainings and Webinars
 
-<https://developer.amazon.com/alexa-skills-kit/alexa-skills-developer-training>{:target="_blank"}
+[Amazon Online Training](https://developer.amazon.com/alexa-skills-kit/alexa-skills-developer-training){:target="_blank"}
 
 <hr />
 
