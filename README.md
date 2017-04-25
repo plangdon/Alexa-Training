@@ -10,7 +10,7 @@
 
 ## Labs
 
-### Lab 1 - Simple Fact Skill 
+### Lab 1 - Simple Fact Skill
 
 ### Lab 2 - Interactive Flash Cards
 
@@ -20,13 +20,30 @@
 
 --------------
 
+## Advanced Topics
+
+### Smart Home Skills
+
+### Flash News Briefings
+
+### Skill Card Design
+
+### Account Linking
+
+--------------
+
+## Additional Resources
+
+#### Alexa Skills Kit SDK for Node.js - Event driven model for Alexa development
+
+https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs
+
+#### Amazon Online Trainings and Webinars
+
+https://developer.amazon.com/alexa-skills-kit/alexa-skills-developer-training
+
+--------------
+
 ## Documents
 
   - [Alexa Voice Service Overview] (https://github.com/plangdon/Alexa-Training/raw/master/docs/Alexa%20Presentation.pdf)
-
-
-### Additional Resources
-
-*New Alexa Repo* - including persistence and simplified examples
---------------
-https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs
