@@ -2,18 +2,18 @@
 
 User asks Alexa skill to "tell me a fact", Alexa responds with a random fact from the list.
 
- * to_be_zipped
-  * index.js: main code file
-  * AlexaSkills.js: helper file
+* to_be_zipped
+    * <b>index.js:</b> main code file
+    * <b>AlexaSkills.js:</b> helper file
 
 * SpeechAssets
-    * Intents.json: Interaction model for this skill (copy and past into Interaction Model:Intent Schema)
-    * Utterances.txt: Voice interactions for this skill (copy and past into Interaction Model:Sample Utterances)
-    * ico108.png: 108px example for icon (for Publishing Information:Images)
-    * ico512.png: 512px example for icon (for Publishing Information:Images)
+    * <b>Intents.json:</b> Interaction model for this skill (copy and past into Interaction Model:Intent Schema)
+    * <b>Utterances.txt:</b> Voice interactions for this skill (copy and past into Interaction Model:Sample Utterances)
+    * <b>ico108.png:</b> 108px example for icon (for Publishing Information:Images)
+    * <b>ico512.png:</b> 512px example for icon (for Publishing Information:Images)
 
 
-## The contents of "to_be_zipped" must be zipped and uploaded to the Lambda function
+<b>The contents of "to_be_zipped" must be zipped and uploaded to the Lambda function</b>
 
 
 ## Publishing Information:
