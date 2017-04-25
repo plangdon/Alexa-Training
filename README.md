@@ -10,18 +10,18 @@
 
 ## Labs
 
-### Lab 1 - [Simple Fact Skill](./labs/lab1/README.md#title)
+### Lab 1 - [Simple Fact Skill](./labs/lab1)
 
-### Lab 2 - [Interactive Flash Cards](./labs/lab2/README.md#title)
+### Lab 2 - [Interactive Flash Cards](./labs/lab2)
 
-### Lab 3 - [External Linking (Web Service Call)](./labs/lab3/README.md#title)
+### Lab 3 - [External Linking (Web Service Call)](./labs/lab3)
 
-### Lab 4 - [Data Persistence (Dynamo DB)](./labs/lab4/README.md#title)
+### Lab 4 - [Data Persistence (Dynamo DB)](./labs/lab4)
 
 <hr />
 ## Tutorials
 
-### How To - [Creating a Skill](./tutorials/README.md#title)
+### How To - [Creating a Skill](./tutorials)
 
 
 <hr />
