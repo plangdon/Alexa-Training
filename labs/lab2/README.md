@@ -1,4 +1,4 @@
-#Inline Quiz Skill <a id="title">
+# Inline Quiz Skill <a id="title">
 
 User asks Alexa skill to start a quiz, Alexa responds with question, user provides the correct answer.
 
@@ -12,7 +12,7 @@ User asks Alexa skill to start a quiz, Alexa responds with question, user provid
     * <b>ico512.png:</b> 512px example for icon (for Publishing Information:Images)
 
 
-##Publishing Information:
+## Publishing Information:
 Example Phrases
  * Alexa, start "Your Quiz Name"
  * Is is answer one

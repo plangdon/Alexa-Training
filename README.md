@@ -21,20 +21,21 @@
 <hr />
 ## Tutorials
 
-### How To - [Creating a Skill - step by step](./tutorials)
+### [How To creating a skill - step by step](./tutorials)
 
 
 <hr />
 
 ## Advanced Topics
 
-### <a href="https://developer.amazon.com/blogs/post/Tx4WG410EHXIYQ/Five-Steps-Before-Developing-a-Smart-Home-Skill" target="_blank">Smart Home Skills</a>
+* #### <a href="https://developer.amazon.com/blogs/post/TxKJ2OU7KQI6E4/Amazon-Enables-Developers-to-Extend-Alexa-s-Flash-Briefing-a-New-Addition-to-the" target="_blank">Flash News Briefings</a> - Learn how to add feeds to flash briefings, which delivers pre-recorded audio and text-to-speech (TTS) updates to customers.
 
-### <a href="https://developer.amazon.com/blogs/post/TxKJ2OU7KQI6E4/Amazon-Enables-Developers-to-Extend-Alexa-s-Flash-Briefing-a-New-Addition-to-the" target="_blank">Flash News Briefings</a>
+* #### <a href="https://developer.amazon.com/blogs/post/Tx22F0206Q8W2QP/Driving-Engagement-Top-10-Tips-for-Effective-Alexa-Skill-Card-Design" target="_blank">Skill Card Design</a> - Best Practices for Skill Card Design, to learn how to best present information on cards for easy consumption.
 
-### <a href="https://developer.amazon.com/blogs/post/Tx22F0206Q8W2QP/Driving-Engagement-Top-10-Tips-for-Effective-Alexa-Skill-Card-Design" target="_blank">Skill Card Design</a>
+* #### <a href="https://developer.amazon.com/blogs/post/Tx3CX1ETRZZ2NPC/Alexa-Account-Linking:-5-Steps-to-Seamlessly-Link-Your-Alexa-Skill-with-Login-wi" target="_blank">Account Linking</a> - Discover how to use account linking with Login with Amazon to seamlessly integrate your Alexa skills with third-party application.
 
-### <a href="https://developer.amazon.com/blogs/post/Tx3CX1ETRZZ2NPC/Alexa-Account-Linking:-5-Steps-to-Seamlessly-Link-Your-Alexa-Skill-with-Login-wi" target="_blank">Account Linking</a>
+* #### <a href="https://developer.amazon.com/blogs/post/Tx4WG410EHXIYQ/Five-Steps-Before-Developing-a-Smart-Home-Skill" target="_blank">Smart Home Skills</a> - Enabling voice control of smart devices for your home
+
 
 <hr />
 
@@ -47,6 +48,13 @@
 #### Amazon Online Trainings and Webinars
 
 <a href="https://developer.amazon.com/alexa-skills-kit/alexa-skills-developer-training" target="_blank">https://developer.amazon.com/alexa-skills-kit/alexa-skills-developer-training</a>
+
+
+#### Amazon - Promotional Credits $$$ for Alexa Skill Developer Program
+
+<a href="https://developer.amazon.com/alexa-skills-kit/alexa-aws-credits" target="_blank">https://developer.amazon.com/alexa-skills-kit/alexa-aws-credits</a>
+
+
 
 <hr />
 

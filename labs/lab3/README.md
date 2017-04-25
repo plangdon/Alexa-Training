@@ -1,4 +1,4 @@
-#External Service Call - Air Quality Report <a id="title">
+# External Service Call - Air Quality Report <a id="title">
 
 User asks Alexa skill to get Air Quality report for a city by name or zip, Alexa responds with results from web service call.
 
@@ -11,7 +11,7 @@ User asks Alexa skill to get Air Quality report for a city by name or zip, Alexa
     * <b>ico512.png:</b> 512px example for icon (for Publishing Information:Images)
 
 
-##Publishing Information:
+## Publishing Information:
 Example Phrases
  * Alexa, start "Your skill name"
  * Alexa ask air quality report what is the air quality in zero six one zero nine
