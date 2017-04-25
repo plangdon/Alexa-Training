@@ -21,7 +21,7 @@
 --------------
 ## Tutorials
 
-### How To - Creating a Skill
+### How To - Creating a Skill 
 
 
 --------------
