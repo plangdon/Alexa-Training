@@ -19,5 +19,4 @@ Here is how to copy and paste your Lambda function ARN to the Skill endpoint.
 
 #### Continue to the next step
 
-
  * [Part 4 - Connect your skill to Lambda](./PAGE4.md#title)

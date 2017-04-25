@@ -20,9 +20,5 @@
 
 #### Continue to the next step
 
-
  * [Part 3 - Connect your skill to Lambda](./PAGE3.md#title)
 
-
-<hr />
-Back to the [Home Page](../../README.md#title)
