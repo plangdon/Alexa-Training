@@ -49,5 +49,6 @@ https://console.aws.amazon.com/iam/home#/home
 * and Secret access key with "****** Show" - Click Show
     * Important - <b>Copy and Save the access key</b> - you will not be able to access it later
 
+## Alternate methods for granting access - https://gist.github.com/unitygirl/3b0bdc0f0826fb88448cf17ac4a7293b
 
 
