@@ -17,11 +17,7 @@ Here is how to copy and paste your Lambda function ARN to the Skill endpoint.
 1. If you get an error, confirm you have previously added an ASK Trigger to your Lambda function.
 
 
-#### Test your skill
-
-Open your skill and say 'tell me a fact'.  Verify the response is as expected.
+#### Continue to the next step
 
 
-
-<hr />
-Back to the [Home Page](../../README.md#title)
+ * [Part 4 - Connect your skill to Lambda](./PAGE4.md#title)
