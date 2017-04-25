@@ -19,6 +19,12 @@
 ### Lab 4 - Data Persistence (Dynamo DB)
 
 --------------
+## Tutorials
+
+### How To - Creating a Skill
+
+
+--------------
 
 ## Advanced Topics
 
