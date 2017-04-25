@@ -3,7 +3,7 @@
 <hr />
 
 
-1. Login to [developer.amazon.com](https://developer.amazon.com) and click Alexa, then Alexa Skills Kit.
+1. Login to <a href="developer.amazon.com" target="_blank">https://developer.amazon.com</a> and click Alexa, then Alexa Skills Kit.
 1. Create a new Skill called **fact skill** with invocation name ```fact skill```.
 1. Paste in the Intents.json (/labs/lab1/SpeechAssets/Intents.json) :
 
