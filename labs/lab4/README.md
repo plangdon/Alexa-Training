@@ -51,9 +51,3 @@ https://console.aws.amazon.com/iam/home#/home
 
 
 
-
-
-
-
- <hr />
- Back to the [Home Page](../../README.md#title)

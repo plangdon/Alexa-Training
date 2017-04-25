@@ -16,6 +16,3 @@ Example Phrases
   * Alexa, open "Your Skill Name", tell me something
   * Give me a fact
   * Tell me a fact
-
-  <hr />
-  Back to the [Home Page](../../README.md#title)
