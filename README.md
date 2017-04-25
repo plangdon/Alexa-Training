@@ -3,9 +3,9 @@
 ## Getting Started
 
 ### You need to have/create 2 types Amazon Accounts:
-   https://developer.amazon.com/ - Amazon Developer Account for Configuring your Alexa Skills
+   <a href="https://developer.amazon.com/" target="_blank">https://developer.amazon.com/</a> - Amazon Developer Account for Configuring your Alexa Skills
 
-   http://aws.amazon.com/ - Amazon Web Services Account for back end services
+   <a href="http://aws.amazon.com/" target="_blank">http://aws.amazon.com/</a> - Amazon Web Services Account for back end services
 
 
 ## Labs
@@ -21,20 +21,20 @@
 <hr />
 ## Tutorials
 
-### How To - [Creating a Skill](./tutorials)
+### How To - [Creating a Skill - step by step](./tutorials)
 
 
 <hr />
 
 ## Advanced Topics
 
-### Smart Home Skills
+### <a href="https://developer.amazon.com/blogs/post/Tx4WG410EHXIYQ/Five-Steps-Before-Developing-a-Smart-Home-Skill" target="_blank">Smart Home Skills</a>
 
-### Flash News Briefings
+### <a href="https://developer.amazon.com/blogs/post/TxKJ2OU7KQI6E4/Amazon-Enables-Developers-to-Extend-Alexa-s-Flash-Briefing-a-New-Addition-to-the" target="_blank">Flash News Briefings</a>
 
-### Skill Card Design
+### <a href="https://developer.amazon.com/blogs/post/Tx22F0206Q8W2QP/Driving-Engagement-Top-10-Tips-for-Effective-Alexa-Skill-Card-Design" target="_blank">Skill Card Design</a>
 
-### Account Linking
+### <a href="https://developer.amazon.com/blogs/post/Tx3CX1ETRZZ2NPC/Alexa-Account-Linking:-5-Steps-to-Seamlessly-Link-Your-Alexa-Skill-with-Login-wi" target="_blank">Account Linking</a>
 
 <hr />
 
@@ -42,14 +42,14 @@
 
 #### Alexa Skills Kit SDK for Node.js - Event driven model for Alexa development
 
-<https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs>{:target="_blank"}
+<a href="https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs" target="_blank">https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs</a>
 
 #### Amazon Online Trainings and Webinars
 
-[Amazon Online Training](https://developer.amazon.com/alexa-skills-kit/alexa-skills-developer-training){:target="_blank"}
+<a href="https://developer.amazon.com/alexa-skills-kit/alexa-skills-developer-training" target="_blank">https://developer.amazon.com/alexa-skills-kit/alexa-skills-developer-training</a>
 
 <hr />
 
 ## Documents
 
-  - [Alexa Voice Service Overview](https://github.com/plangdon/Alexa-Training/raw/master/docs/Alexa%20Presentation.pdf)
+<a href="https://github.com/plangdon/Alexa-Training/raw/master/docs/Alexa%20Presentation.pdf" target="_blank">Alexa Voice Service Overview</a>
